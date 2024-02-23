@@ -22,7 +22,7 @@ function classificarImc(imc){
 
 function main(){
     let imc= calcularImc(90, 1.80)
-    console.log(classificarImc(imc))
 }
-
+    
+    
 main();
